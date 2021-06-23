@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+    font-size: 20px;
+}
+
+h1{
+width: 100%;
+top: 0%;
+
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+    
+}
